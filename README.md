@@ -47,7 +47,7 @@ Steps to Run Locally
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/creatorverse.git
+git clone https://github.com/your-username/creatorverse.git](https://github.com/debrahGh/creatorVerse)
 cd creatorverse
 Install Dependencies:
 bash
@@ -60,8 +60,8 @@ Get your Supabase Project URL and API Key.
 Create a .env file in the root of your project and add your Supabase credentials:
 makefile
 Copy code
-VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
 Run the App:
 bash
 Copy code

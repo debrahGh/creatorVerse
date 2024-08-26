@@ -3,6 +3,7 @@
 
 CreatorVerse is a full-stack web application built with React and Supabase that allows users to manage a list of their favorite content creators. Users can add, view, edit, and delete creators, with the data stored in a Supabase database. This app is styled with PicoCSS and uses React Router for navigation.
 
+
 🌟 Features
 
 View All Creators: Display a list of all content creators.
@@ -19,8 +20,6 @@ Styling: PicoCSS
 Deployment: Vercel
 📂 Project Structure
 
-css
-Copy code
 ├── public
 │   └── index.html
 ├── src
@@ -38,6 +37,7 @@ Copy code
 │   └── client.js
 ├── package.json
 └── README.md
+
 ⚙️ Setup & Installation
 
 Prerequisites
@@ -84,4 +84,3 @@ Include a GIF or link to a demo video showcasing the application in action.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📧 Contact

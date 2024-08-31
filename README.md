@@ -51,6 +51,7 @@ bash
 Copy code
 git clone https://github.com/your-username/creatorverse.git](https://github.com/debrahGh/creatorVerse)
 cd creatorverse
+
 Install Dependencies:
 bash
 Copy code
@@ -70,14 +71,17 @@ Run the App:
 bash
 Copy code
 npm run dev
+
 Open the App:
 Visit http://localhost:3000 to view the app.
+
 Deployment
 The app can be deployed using Vercel. If you haven't already:
 bash
 Copy code
 npm install -g vercel
 vercel
+
 Configure your environment variables in the Vercel dashboard after deploying.
 🎨 Screenshot
 

@@ -1,4 +1,6 @@
 import { useRoutes } from 'react-router-dom';
+import 'picocss/pico.min.css';
+import './index.css';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import ViewCreator from './pages/ViewCreator';

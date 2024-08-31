@@ -62,8 +62,10 @@ Get your Supabase Project URL and API Key.
 Create a .env file in the root of your project and add your Supabase credentials:
 makefile
 Copy code
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
+
+VITE_SUPABASE_URL=https://crvsbrzikbkhvwibojxf.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNydnNicnppa2JraHZ3aWJvanhmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjQ2NDA4MDMsImV4cCI6MjA0MDIxNjgwM30.pZPHM2-7NBzvtyjTqnXRKMuB-SDfz5tPjuSFTVEecRY
+
 Run the App:
 bash
 Copy code

@@ -83,11 +83,13 @@ npm install -g vercel
 vercel
 
 Configure your environment variables in the Vercel dashboard after deploying.
+
 🎨 Screenshot
 
 🎥 Demo
 
 Include a GIF or link to a demo video showcasing the application in action.
+
 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

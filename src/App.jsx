@@ -20,6 +20,9 @@ function App() {
       <Navbar />
       {routes}
     </div>
+    <div className="App">
+      <h1>Welcome to CreatorVerse! Start adding your favorite creators now!</h1>
+    </div>
   );
 }
 

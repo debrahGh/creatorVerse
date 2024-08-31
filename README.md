@@ -18,6 +18,7 @@ Frontend: React, Vite
 Backend: Supabase
 Styling: PicoCSS
 Deployment: Vercel
+
 📂 Project Structure
 
 ├── public
@@ -43,6 +44,7 @@ Deployment: Vercel
 Prerequisites
 Node.js (v14+)
 npm or yarn
+
 Steps to Run Locally
 Clone the Repository:
 bash
